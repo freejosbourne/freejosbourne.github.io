@@ -1,18 +1,27 @@
 body{
-background-color: maroon;
+background-color: rgb(252, 154, 255);
 color:#ffffff;
 }
 .mainheading{
-    color:blue;
-    background-color: cyan;
-    border-color: #00ff00;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color:rgb(35, 0, 63);
+    background-color: rgb(182, 0, 199);
+    border-color: #ffffff;
     border-style:solid;
-    border: width 50px;
-    height: 5000000 px;
-    width: 50 px;
 }  
 .header2{
-    background-color: pink;
-    height: 100px;
-    width: 50px;
+    background-color: rgb(153, 0, 255);
+    height: 50px;
+    width: 300px;
+}
+.image{
+    text-align: center;
+}
+.contact{
+    font-size: 30px;
+}
+.link{
+    font-size: 30px;
 }
