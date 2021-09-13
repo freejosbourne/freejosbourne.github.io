@@ -1,0 +1,18 @@
+body{
+background-color: maroon;
+color:#ffffff;
+}
+.mainheading{
+    color:blue;
+    background-color: cyan;
+    border-color: #00ff00;
+    border-style:solid;
+    border: width 50px;
+    height: 5000000 px;
+    width: 50 px;
+}  
+.header2{
+    background-color: pink;
+    height: 100px;
+    width: 50px;
+}
